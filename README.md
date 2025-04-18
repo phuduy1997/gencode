@@ -1,4 +1,4 @@
-# SQL Generator App Basic CRUD - Code vibe
+# SQL Generator App
 
 ## Overview
 SQL Generator App is a powerful tool designed to simplify the process of creating database-first applications. It generates complete, ready-to-use code for data models, repositories, services, controllers, and SQL scripts from your database table definitions.
